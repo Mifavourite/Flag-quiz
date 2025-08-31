@@ -1,17 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Guess the Flag Quiz</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-    <h1>Guess the Flag Quiz</h1>
-    <p id="emojis">❤️ ✅ 🍔 🍉 😍🌍</p>
-    <img src="Earth-mascot.jpg"alt="Earth-mascot" height="300px">
-    <p>Click on the button below to start!</p>
-    <button onclick="startQuiz()">Start Quiz</button>
-    <script src="script.js"></script>
-</body>
-</html>
+🌍 Guess the Flag Quiz
+
+A fun little game made with HTML, CSS, and JavaScript. Click the button, start the quiz, and try to guess the flag! 🎮
+
+🚀 How to Play
+
+Open index.html in your browser.
+
+Click Start Quiz.
+
+Guess the flag shown on screen. ✅
+
+📂 Files
+
+index.html → main page
+
+style.css → styling
+
+script.js → game logic
+
+✨ Future Ideas
+
+Add more flags 🏳️
+
+Keep score 🏆
+
+Add a timer ⏳
