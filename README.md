@@ -1,3 +1,17 @@
-# Flag-quiz
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Mifavourite/Flag-quiz)
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Guess the Flag Quiz</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Guess the Flag Quiz</h1>
+    <p id="emojis">❤️ ✅ 🍔 🍉 😍🌍</p>
+    <img src="Earth-mascot.jpg"alt="Earth-mascot" height="300px">
+    <p>Click on the button below to start!</p>
+    <button onclick="startQuiz()">Start Quiz</button>
+    <script src="script.js"></script>
+</body>
+</html>
